@@ -92,6 +92,6 @@ I think my biggest weakness is making responsive web. So this is my learning goa
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/waleska-alexandra)
-- Twitter - [@yourusername](https://twitter.com/rangelwaleska_)
+- Frontend Mentor - [@waleska-alexandra](https://www.frontendmentor.io/profile/waleska-alexandra)
+- Twitter - [@rangelwaleska_](https://twitter.com/rangelwaleska_)
 
